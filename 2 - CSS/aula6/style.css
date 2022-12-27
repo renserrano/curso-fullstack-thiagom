@@ -1,0 +1,20 @@
+body {
+    background: #dfdfdf;
+}
+
+p {
+    color: #222222;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #FFFFFF; /* shorthand */
+    border-radius: 50%;
+    /*
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px; 
+    */
+    /* imaginar um relógio top, right, bottom, left*/
+    margin: 30px 30px 30px 30px;
+}

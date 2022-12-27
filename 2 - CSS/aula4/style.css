@@ -1,0 +1,12 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%; */
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed; /*scroll, conteudo rola e imagem permanece fixa*/
+}
+
+p {
+    color: #222222;
+}

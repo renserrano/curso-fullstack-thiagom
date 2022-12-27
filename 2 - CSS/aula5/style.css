@@ -1,0 +1,19 @@
+body {
+    background: #dfdfdf;
+}
+
+p {
+    color: #222222;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #FFFFFF; /* shorthand */
+    /* border-radius: 50%; */
+    border-radius: 50% 10% 30% 70%;
+    /* 
+    border-width: 5px;
+    border-color: black;
+    border-style: solid; 
+    */
+}
